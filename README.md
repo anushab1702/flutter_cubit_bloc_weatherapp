@@ -1,6 +1,6 @@
 ## Flutter_Cubit_Bloc_Weather_App
 
- A New Project Using Cubit Bloc Flutter project.
+ A New  Flutter Project Using Cubit Bloc 
 
 ## Getting Started
 
